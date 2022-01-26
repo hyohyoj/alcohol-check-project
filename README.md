@@ -1,4 +1,4 @@
-# alcohol-check-project
+# alcohol-check-web-project
 아두이노, 앱 연동을 통한 음주 운전 방지 시스템
 
 - 알코올 센서를 연결한 아두이노와 연동하여 실시간으로 음주측정이 가능하다
