@@ -1,2 +1,5 @@
 *.css linguist-detectable=false
 *.jsp linguist-dectectable=true
+
+WebContent/** linguist-documentation=false
+WebContent/** linguist-vendored=false
