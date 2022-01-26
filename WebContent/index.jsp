@@ -249,7 +249,6 @@
     <!--c3 JavaScript -->
     <script src="assets/node_modules/d3/d3.min.js"></script>
     <script src="assets/node_modules/c3-master/c3.min.js"></script>
-    <!-- Chart JS -->
     <script src="js/dashboard1.js"></script>
 </body>
 
